@@ -1,3 +1,5 @@
+Logistic Regression
+
 Write python codes and build logistic regression classifiers on breast cancer dataset to predict whether the cancer is malignant or benign on the patients.
 What I have done:
 •Load data, clean data and partition them into training and testing data.
